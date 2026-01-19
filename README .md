@@ -22,6 +22,19 @@ This project documents the step-by-step process to launch and connect to a Windo
 4. Assign Elastic IP
 5. Connect via RDP using decrypted password
 
+   ## 📸 Architecture Diagram
+![AWS Architecture Diagram](architecture-diagram.png)
+[ User Laptop ] --RDP--> [ Elastic IP ] --> [ EC2 Windows Instance ]
+                                     |
+                                     v
+                                [ Security Group (RDP 3389 allowed) ]
+                                     |
+                                     v
+                                [ Public Subnet ] --> [ VPC ]
+
+### EC2 Instance Running
+
+
 ## 📁 Files Included
 - Setup Guide
 - Architecture Diagram
