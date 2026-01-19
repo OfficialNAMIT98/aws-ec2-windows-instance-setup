@@ -22,9 +22,6 @@ This project documents the step-by-step process to launch and connect to a Windo
 4. Assign Elastic IP
 5. Connect via RDP using decrypted password
 
-## 📸 Screenshots & Diagrams
-*(Add architecture diagram or screenshots here)*
-
 ## 📁 Files Included
 - Setup Guide
 - Architecture Diagram
@@ -33,4 +30,4 @@ This project documents the step-by-step process to launch and connect to a Windo
 ## 👤 Author
 Namit Srivastava  
 Aspiring Cloud Support Engineer  
-[LinkedIn Profile](www.linkedin.com/in/namit-srivastava-4587b6164) 
+[LinkedIn Profile]-www.linkedin.com/in/namit-srivastava-4587b6164
